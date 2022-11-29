@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Tian Heyi, a student majoring in software engineering.
+# Hi!
+- 👋 I’m Tian Heyi, a student majoring in software engineering.
 - 🌱 I’m interested in Backend,Microservices and Cloud native.I’m currently learning observability.
 - 📫 How to reach me:
   - Email: 485280869@qq.com
