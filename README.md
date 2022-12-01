@@ -13,5 +13,8 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github.com/tianheyi/resource-images/blob/main/logo/mysql.svg" width="120px" height="60px"> <img src="https://github.com/tianheyi/resource-images/blob/main/logo/redis.svg" width="120px" height="60px"> <img src="https://github.com/tianheyi/resource-images/blob/main/logo/rabbitmq.svg" width="120px" height="60px"> \
 <img src="https://github.com/tianheyi/resource-images/blob/main/logo/docker.svg" width="120px" height="60px">
 
-## leaning
+## Learning
 <img src="https://github.com/tianheyi/resource-images/blob/main/logo/opentelemetry.svg" width="120px" height="60px">
+
+## Ready to learn
+https://landscape.cncf.io/
